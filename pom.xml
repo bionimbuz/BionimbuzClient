@@ -14,17 +14,17 @@
     <repositories>
         <repository>
             <id>JBoss Repo</id>
-            <url>https://repository.jboss.com/maven2</url>
+            <url>http://repository.jboss.com/maven2</url>
         </repository>
         <repository>
             <id>maven2-repository.dev.java.net</id>
             <name>Java.net Repository for Maven</name>
-            <url>https://download.java.net/maven/2</url>
+            <url>http://download.java.net/maven/2</url>
         </repository>
         <repository>
             <id>prime-repo</id>
             <name>Prime Repo</name>
-            <url>https://repository.primefaces.org</url>
+            <url>http://repository.primefaces.org</url>
         </repository>
     </repositories>
 
